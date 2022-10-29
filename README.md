@@ -1,2 +1,2 @@
 # Problemas-OmegaUp
-Ejercicios de programación en python
+Ejercicios de programación en python-C
